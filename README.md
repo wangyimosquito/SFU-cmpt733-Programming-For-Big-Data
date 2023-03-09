@@ -25,3 +25,6 @@ This is a repo for course Programming For Big Data course at Simon Fraser Univer
 ## Assignment6
 + Used Pytorch to build a one-hidden-layer network for rectangle detection.
 + Used Pytorch pretrained models (resnet18, vgg16, alexnet) for image classifictaion.
+
+## Assignmnet7
++ Used Graph-tools to perform different graph-related manipulations like draw graphs, shortest-link distribution, centrality-calculation.
