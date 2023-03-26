@@ -28,3 +28,8 @@ This is a repo for course Programming For Big Data course at Simon Fraser Univer
 
 ## Assignmnet7
 + Used Graph-tools to perform different graph-related manipulations like draw graphs, shortest-link distribution, centrality-calculation.
+
+## Assignment8
++ Explained several machine learning models.
++ Used feature_tools to perform feature engineering, and used sklearn for feature selection.
+
