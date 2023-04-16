@@ -37,3 +37,11 @@ This is a repo for course Programming For Big Data course at Simon Fraser Univer
 + Performed A/B Testing and Chi-Squared Testing
 + Implemented several methods of Causal Inference and tried out DoWhy.
 
+## Assignment10
++ Used Glove to perform word embedding and word distance calculation
++ Utilize XML-RoBERTa and LSTM to perform 2-class sentimental analysis
+
+## Assignmnet11
++ Utilize AI Fairness 360 to reduce bias in machine learning training process
++ Tried out Pre-preprocessing bias elimination on the Titanic dataset offered by Kaggle
+
