@@ -1,5 +1,5 @@
 # Programming-For-Big-Data
-This is a repo for course Programming For Big Data course at Simon Fraser University(2023)
+This is a repo for course Programming For Big Data course at Simon Fraser University(2023). This repository is only for personal project archive and further referrence.
 
 ## Assignment1
 + Used BeautifulSoup and Pandas to perform web crawling.
@@ -44,4 +44,3 @@ This is a repo for course Programming For Big Data course at Simon Fraser Univer
 ## Assignmnet11
 + Utilize AI Fairness 360 to reduce bias in machine learning training process
 + Tried out Pre-preprocessing bias elimination on the Titanic dataset offered by Kaggle
-
